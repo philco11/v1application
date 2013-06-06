@@ -1,2 +1,2 @@
-web: sh target/bin/webapp
+web: node web.js
 
